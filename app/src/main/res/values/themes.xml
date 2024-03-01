@@ -6,4 +6,13 @@
     </style>
 
     <style name="Theme.CellQuest" parent="Base.Theme.CellQuest" />
+
+    <style name="Theme.CellQuest.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.CellQuest.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.CellQuest.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
