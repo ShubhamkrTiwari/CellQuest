@@ -13,6 +13,14 @@
         android:theme="@style/Theme.CellQuest"
         tools:targetApi="31">
         <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Homepage"
+            android:exported="false"
+            android:label="@string/title_activity_homepage"
+            android:theme="@style/Theme.CellQuest.NoActionBar" />
+        <activity
             android:name=".HomeActivity"
             android:exported="false" />
         <activity
