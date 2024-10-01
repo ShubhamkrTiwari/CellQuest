@@ -21,8 +21,8 @@
 
     <EditText
         android:id="@+id/editTextText2"
-        android:layout_width="192dp"
-        android:layout_height="44dp"
+        android:layout_width="188dp"
+        android:layout_height="41dp"
         android:ems="10"
         android:inputType="text"
         android:text="          Username"
@@ -31,7 +31,7 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.236" />
+        app:layout_constraintVertical_bias="0.213" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -39,24 +39,24 @@
         android:layout_height="37dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.425"
+        app:layout_constraintHorizontal_bias="0.458"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.314"
+        app:layout_constraintVertical_bias="0.28"
         app:srcCompat="@drawable/bloodgroup" />
 
     <EditText
         android:id="@+id/editTextText3"
-        android:layout_width="183dp"
-        android:layout_height="45dp"
+        android:layout_width="217dp"
+        android:layout_height="43dp"
         android:ems="10"
         android:inputType="text"
-        android:text="Blood Group"
+        android:text="        Blood Group"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.472"
+        app:layout_constraintHorizontal_bias="0.489"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.371" />
+        app:layout_constraintVertical_bias="0.35" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
