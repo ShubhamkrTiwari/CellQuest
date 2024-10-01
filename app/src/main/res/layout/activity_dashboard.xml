@@ -33,4 +33,12 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.236" />
 
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bloodgroup"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="284dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
