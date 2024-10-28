@@ -24,7 +24,7 @@
         android:id="@+id/button2"
         android:layout_width="117dp"
         android:layout_height="51dp"
-        android:backgroundTint="#FF6D00"
+        android:backgroundTint="#230B05"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
