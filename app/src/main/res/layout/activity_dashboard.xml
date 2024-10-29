@@ -23,7 +23,7 @@
         android:id="@+id/button2"
         android:layout_width="117dp"
         android:layout_height="51dp"
-        android:backgroundTint="#230B05"
+        android:backgroundTint="#AA00FF"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
