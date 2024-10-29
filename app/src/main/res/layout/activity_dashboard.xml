@@ -21,14 +21,14 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="117dp"
-        android:layout_height="51dp"
+        android:layout_width="126dp"
+        android:layout_height="68dp"
         android:backgroundTint="#AA00FF"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.88" />
+        app:layout_constraintVertical_bias="0.907" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
